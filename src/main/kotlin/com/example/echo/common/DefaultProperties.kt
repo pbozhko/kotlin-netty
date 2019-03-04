@@ -1,4 +1,4 @@
-package com.example.common
+package com.example.echo.common
 
 object DefaultProperties {
     val HOST = "127.0.0.1"

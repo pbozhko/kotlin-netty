@@ -1,6 +1,6 @@
-package com.example.client
+package com.example.echo.client
 
-import com.example.common.DefaultProperties
+import com.example.echo.common.DefaultProperties
 import io.netty.bootstrap.Bootstrap
 import io.netty.channel.ChannelInitializer
 import io.netty.channel.ChannelOption

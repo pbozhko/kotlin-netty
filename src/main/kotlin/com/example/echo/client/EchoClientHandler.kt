@@ -1,4 +1,4 @@
-package com.example.client
+package com.example.echo.client
 
 import io.netty.channel.ChannelHandlerContext
 import io.netty.channel.ChannelInboundHandlerAdapter

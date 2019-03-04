@@ -1,4 +1,4 @@
-package com.example.server
+package com.example.echo.server
 
 import io.netty.channel.ChannelHandler.Sharable
 import io.netty.channel.ChannelHandlerContext
